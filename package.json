@@ -1,0 +1,19 @@
+{
+  "name": "css-play-set",
+  "version": "1.0.0",
+  "description": "来源于网络上学习的前端静态html和css文件集。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lautung/css-play-set.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lautung/css-play-set/issues"
+  },
+  "homepage": "https://github.com/lautung/css-play-set#readme"
+}
